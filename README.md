@@ -43,5 +43,6 @@ Wildlife photography and videography focused on natural behavior in rainforests 
 
 ## 📫 Find me
 
-- Website: [https://sekarbala.dev](https://sekarbala.dev)
+- Upwork: [https://www.upwork.com/freelancers/sekarbala](https://www.upwork.com/freelancers/sekarbala)
 - LinkedIn: [https://linkedin.com/in/sekarbaladev](https://www.linkedin.com/in/sekarbaladev/)
+- Website: [https://sekarbala.dev](https://sekarbala.dev)
