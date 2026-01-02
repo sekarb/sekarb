@@ -20,7 +20,7 @@ What I work on:
 - Vercel
 
 **Enterprise & large-scale systems**
-- Adobe ColdFusion (2021+)
+- Adobe ColdFusion (Adobe Certified)
 - Oracle, MS SQL Server
 - Legacy system modernization & migrations
 
