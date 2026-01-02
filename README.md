@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 20+ years of experience building and maintaining production web applications.
 
-What I work on:
+What I'm working on:
 - Building full-stack applications with **Next.js + Tailwind CSS + PostgreSQL**
 - Freelance bug fixing, performance tuning, and migrations
 - Developing and publishing indie apps (iOS + web)
