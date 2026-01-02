@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I’m Sekar 👋
 
-<!--
-**sekarb/sekarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 20+ years of experience building and maintaining production web applications.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Building full-stack applications with **Next.js + Tailwind CSS + PostgreSQL**
+- Freelance bug fixing, performance tuning, and migrations
+- Developing and publishing indie apps (iOS + web)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**Primary stack**
+- Next.js (App Router)
+- React
+- Tailwind CSS
+- JavaScript / TypeScript
+- Shadcn UI
+- Vercel
+- GitHub
+
+**Enterprise & large-scale systems**
+- Adobe ColdFusion (2021+)
+- Oracle, MS SQL Server
+- Legacy system modernization & migrations
+
+---
+
+## 📱 Projects
+
+- **MunkyVite** – Full-stack invite & RSVP app (Next.js + PostgreSQL)
+- **Munky Weather** – iOS outdoor weather app built with SwiftUI (View [App Store](https://apps.apple.com/app/id6467945276) / [Product Page](https://munkyweather.app))
+- Various ColdFusion modernization and migration projects
+
+---
+
+## 🌿 Outside of Code
+Outdoor enthusiast — camping and hiking.  
+Wildlife photography and videography focused on natural behavior in rainforests and remote locations.
+
+---
+
+## 📫 Find me
+
+- Website: [https://sekarbala.dev](https://sekarbala.dev)
+- LinkedIn: [https://linkedin.com/in/sekarbaladev](https://www.linkedin.com/in/sekarbaladev/)
