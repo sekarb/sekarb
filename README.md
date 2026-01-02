@@ -36,8 +36,9 @@ What I work on:
 ---
 
 ## 🌿 Outside of Code
-Outdoor enthusiast — camping and hiking.  
-Wildlife photography and videography focused on natural behavior in rainforests and remote locations.
+🥾 Camping & Hiking  
+📸 Wildlife Photography (Rainforests & Remote locations)  
+🦧 Supporter of Orangutan conservation and habitat protection
 
 ---
 
