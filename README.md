@@ -14,11 +14,10 @@ What I work on:
 **Primary stack**
 - Next.js (App Router)
 - React
+- TypeScript
 - Tailwind CSS
-- JavaScript / TypeScript
 - Shadcn UI
 - Vercel
-- GitHub
 
 **Enterprise & large-scale systems**
 - Adobe ColdFusion (2021+)
